@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on my 'Logist profile'
 - 🌱 I’m currently learning Python Web, Data Science, ML
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=picol1ni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piccol1ni)](https://github.com/anuraghazra/github-readme-stats)
